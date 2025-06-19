@@ -1,0 +1,158 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.headertop {
+  background-color: #000000;
+  color: white;
+}
+.headertop {
+  padding-top: 10px;
+}
+
+.header_top_right a {
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  margin: 10px;
+}
+.nav-item a {
+  font-size: 18px;
+  color: #111111;
+  display: block;
+  font-weight: 600;
+}
+.option a {
+  margin-right: 50px;
+}
+.first-page {
+  height: 35vh;
+  text-align: center;
+  align-items: center;
+
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+}
+.bgimg h2 {
+  color: #ffffff;
+  font-size: 60px;
+  font-weight: 700;
+}
+.fifthpage {
+  margin-top: 50px;
+}
+.fifthpageheader {
+  /* border: 2px solid red; */
+  text-align: center;
+}
+.fifthpageheader p {
+  color: #e53637;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 700;
+  font-size: 14px;
+  padding-top: 10px;
+}
+.pageitems {
+  /* border: 2px solid red; */
+  padding-top: 50px;
+}
+.pageimg {
+  height: 30vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.pagetext {
+  padding: 30px 30px 25px;
+  margin: 0 30px;
+  margin-top: -35px;
+  background: #ffffff;
+  /* border: 2px solid black; */
+}
+.pagetext span {
+  /* border: 2px solid black; */
+  color: #3d3d3d;
+  font-size: 13px;
+  display: block;
+  margin-bottom: 10px;
+}
+.pagetext span img {
+  margin-right: 10px;
+}
+.pagetext p {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 700;
+  font-size: 14px;
+  text-decoration: underline;
+}
+.pagetext p:hover {
+  color: #e53637;
+  cursor: pointer;
+}
+.card-body a {
+  /* border: 2px solid red; */
+
+  color: #e53637;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 700;
+  font-size: 14px;
+}
+.footer {
+  background: #111111;
+  padding-top: 70px;
+  margin-top: 70px;
+}
+.logo {
+  margin-bottom: 30px;
+}
+.about p {
+  color: #b7b7b7;
+  margin-bottom: 30px;
+}
+.widget h6 {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  padding-left: 30px;
+}
+.widget ul li {
+  list-style: none;
+  line-height: 36px;
+}
+.widget ul li a {
+  color: #b7b7b7;
+  font-size: 15px;
+  text-decoration: none;
+  background-color: transparent;
+}
+.widget p {
+  color: #b7b7b7;
+  margin-bottom: 30px;
+  padding-left: 30px;
+}
+.widget form input {
+  width: 90%;
+  font-size: 15px;
+  color: #3d3d3d;
+  background: transparent;
+  border: none;
+  padding: 15px 0;
+  border-bottom: 2px solid #ffffff;
+  margin-left: 30px;
+}
+.copywrite {
+  border-top: 2px solid rgba(255, 255, 255, 0.1);
+  padding: 20px 0;
+  margin-top: 40px;
+}
+.copywrite p {
+  color: #b7b7b7;
+}
