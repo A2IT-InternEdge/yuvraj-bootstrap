@@ -1,0 +1,153 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.headertop {
+  background-color: #000000;
+  color: white;
+}
+.headertop {
+  padding-top: 10px;
+}
+
+.header_top_right a {
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  margin: 10px;
+}
+.nav-item a {
+  font-size: 18px;
+  color: #111111;
+  display: block;
+  font-weight: 600;
+}
+.option a {
+  margin-right: 50px;
+}
+
+.contact {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.sectionheading {
+  margin-bottom: 40px;
+}
+.sectionheading span {
+  color: #e53637;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 15px;
+  display: block;
+}
+.sectionheading h2 {
+  font-size: 48px;
+  margin-bottom: 18px;
+}
+p {
+  font-size: 15px;
+  font-family: "Nunito Sans", sans-serif;
+  color: #3d3d3d;
+  font-weight: 400;
+  line-height: 25px;
+  margin: 0 0 15px 0;
+}
+.sectionheading p {
+  color: #707070;
+  line-height: 26px;
+  width: 85%;
+}
+.address h4 {
+  color: #111111;
+  font-weight: 700;
+  margin-bottom: 8px;
+  font-size: 25px;
+}
+.contactform input {
+  height: 50px;
+  width: 100%;
+  border: 1px solid #e1e1e1;
+  padding-left: 20px;
+  font-size: 15px;
+  color: #b7b7b7;
+  margin-bottom: 30px;
+}
+.contactform textarea {
+  height: 150px;
+  width: 100%;
+  border: 1px solid #e1e1e1;
+  padding-left: 20px;
+  font-size: 15px;
+  color: #b7b7b7;
+  margin-bottom: 30px;
+  resize: none;
+}
+.contactform button {
+  letter-spacing: 4px;
+  padding: 14px 35px;
+}
+.sitebtn {
+  font-size: 14px;
+  color: #ffffff;
+  background: #111111;
+  font-weight: 700;
+  border: none;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.footer {
+  background: #111111;
+  padding-top: 70px;
+}
+.logo {
+  margin-bottom: 30px;
+}
+.about p {
+  color: #b7b7b7;
+  margin-bottom: 30px;
+}
+.widget h6 {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  padding-left: 30px;
+}
+.widget ul li {
+  list-style: none;
+  line-height: 36px;
+}
+.widget ul li a {
+  color: #b7b7b7;
+  font-size: 15px;
+  text-decoration: none;
+  background-color: transparent;
+}
+.widget p {
+  color: #b7b7b7;
+  margin-bottom: 30px;
+  padding-left: 30px;
+}
+.widget form input {
+  width: 90%;
+  font-size: 15px;
+  color: #3d3d3d;
+  background: transparent;
+  border: none;
+  padding: 15px 0;
+  border-bottom: 2px solid #ffffff;
+  margin-left: 30px;
+}
+.copywrite {
+  border-top: 2px solid rgba(255, 255, 255, 0.1);
+  padding: 20px 0;
+  margin-top: 40px;
+}
+.copywrite p {
+  color: #b7b7b7;
+}
